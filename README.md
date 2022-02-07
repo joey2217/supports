@@ -1,6 +1,6 @@
 # Support
 
-## [aliyun云大使](https://www.aliyun.com/minisite/goods?userCode=6wzzmpsm&utm_source=6wzzmpsm)
+## [阿里云•云小站](https://www.aliyun.com/minisite/goods?userCode=6wzzmpsm&utm_source=6wzzmpsm)
 
 ### [阿里云拼团优惠购](https://www.aliyun.com/activity/ambassador/pintuangou?userCode=6wzzmpsm)
 
