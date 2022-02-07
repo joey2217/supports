@@ -14,6 +14,7 @@ const Home: NextPage = () => {
       <a
         className="text-lg"
         target="_blank"
+        rel="noopener noreferrer"
         href="https://promotion.aliyun.com/ntms/act/ambassador/sharetouser.html?userCode=6wzzmpsm&utm_source=6wzzmpsm"
       >
         阿里云 • 云小站
